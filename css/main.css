@@ -462,7 +462,20 @@ section > video{
       color: #333;
   }
 
-  .macNews_lst .slick-arrow {
+  .button {
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid #fff;
+    margin-left: 35%;
+    margin-top: 10%;
+    letter-spacing: 2px;
+    cursor: pointer;
+    color: #fff;
+    width: 140px;
+    text-align: center;
+  }
+
+  /* .macNews_lst .slick-arrow {
     position: absolute;
     top: 43%;
     width: 3.5rem;
@@ -471,11 +484,12 @@ section > video{
     border: 1px solid rgba(170,170,170,0.5);
     background-color: rgba(255,255,255,0.5);
     /* transform: translateY(-50%); */
-    -webkit-transform: translateY(-50%);
+    /* -webkit-transform: translateY(-50%); */
     /* transition: border .3s ease, background .3s; */
-    -webkit-transition: border .3s ease, .3s;
-    z-index: 1;
-  }
+    /* -webkit-transition: border .3s ease, .3s; */
+    /* z-index: 1; }
+    */
+  
 
 
 
