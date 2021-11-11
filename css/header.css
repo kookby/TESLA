@@ -2,5 +2,5 @@
 
 header{color: #000; height:100px; align-items: center; width:100%; position: fixed; top:0; z-index: 9999;}
 header .h_content{width:95%; max-width:1400px; margin:0 auto; justify-content: space-between; align-items: center; color: #000;}
-header .h_content ul li{color:#fff; margin: 0 50px;;}
+header .h_content ul li{font-size: 1.6rem; color:#fff; margin: 0 50px;;}
 header .h_content ul li a{color: #1c6bba;}
